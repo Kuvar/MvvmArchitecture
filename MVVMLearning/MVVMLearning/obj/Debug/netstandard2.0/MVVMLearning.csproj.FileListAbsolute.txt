@@ -1,0 +1,11 @@
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\bin\Debug\netstandard2.0\MVVMLearning.deps.json
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\bin\Debug\netstandard2.0\MVVMLearning.dll
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\bin\Debug\netstandard2.0\MVVMLearning.pdb
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.csprojResolveAssemblyReference.cache
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.csproj.CoreCompileInputs.cache
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.App.xaml.g.cs
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.MainPage.xaml.g.cs
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.AssemblyInfoInputs.cache
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.AssemblyInfo.cs
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.dll
+c:\users\kuvar\source\repos\MVVMLearning\MVVMLearning\MVVMLearning\obj\Debug\netstandard2.0\MVVMLearning.pdb
